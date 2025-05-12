@@ -5,7 +5,7 @@ export default function name() {
     <div className="">
       <header className="bg-gradient-to-br from-violet-500 to-pink-400 h-52"></header>
       <div className="relative bottom-16 container mx-8 ml-auto mr-auto  xl:w-6/12 flex flex-wrap items-start">
-        <div className="w-full grid xl:grid-cols-3 md:grid-cols-3 grid-cols-1 gap-4">
+        <div className="w-full grid xl:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-4">
           <div className="bg-white w-full mx-auto border transform hover:translate-y-2 shadow-xl transition duration-300">
             <div className="flex justify-end p-4">
               <button type="button">...</button>
